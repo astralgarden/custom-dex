@@ -2,9 +2,6 @@
 
 Simple Pokédex tool made by someone with basic knowledge of HTML/CSS, mostly made as a template for me to make future projects on but I'm happy to share the code with anyone who wants it.
 
-### UPDATE!
-Uh somehow while i was getting this working on git all the image links broke. I'll figure out why that is probably tommorow. ok the image links didn't break the images are just flat?? lmao?
-
 ## Things Here
 
 ### generator.py
